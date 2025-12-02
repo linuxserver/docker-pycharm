@@ -27,7 +27,7 @@ pipeline {
     DEV_DOCKERHUB_IMAGE = 'lsiodev/pycharm'
     PR_DOCKERHUB_IMAGE = 'lspipepr/pycharm'
     DIST_IMAGE = 'arch'
-    MULTIARCH = 'true'
+    MULTIARCH = 'false'
     CI = 'true'
     CI_WEB = 'true'
     CI_PORT = '3001'
