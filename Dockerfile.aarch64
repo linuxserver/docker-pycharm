@@ -21,7 +21,7 @@ RUN \
   echo "**** install packages ****" && \
   pacman -Sy --noconfirm \
    caja \
-   "pycharm-community-edition${PYCHARM_VERSION:+=$PYCHARM_VERSION}" && \
+   pycharm && \
   echo "**** cleanup ****" && \
   printf \
     "Linuxserver.io version: ${VERSION}\nBuild-date: ${BUILD_DATE}" \
