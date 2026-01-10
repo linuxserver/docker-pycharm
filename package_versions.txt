@@ -23,7 +23,7 @@ archlinux-keyring                                                             20
 asciidoctor-vscode                                                            3.3.2-dev                               npm                            
 asm                                                                           UNKNOWN                                 java-archive                   
 assertj-swing                                                                 3.17.1                                  java-archive  (+1 duplicate)   
-at-spi2-core                                                                  2.58.2-1                                alpm                           
+at-spi2-core                                                                  2.58.3-1                                alpm                           
 attr                                                                          2.5.2-1                                 alpm                           
 attrs                                                                         25.4.0                                  python                         
 audit                                                                         4.1.2-1                                 alpm                           
@@ -32,7 +32,7 @@ autoconf                                                                      2.
 automake                                                                      1.18.1-1                                alpm                           
 automaton                                                                     1.12-4                                  java-archive                   
 av                                                                            14.4.0                                  python                         
-avahi                                                                         1:0.9rc2-1                              alpm                           
+avahi                                                                         1:0.9rc2-3                              alpm                           
 backports-tarfile                                                             1.2.0                                   python                         
 base-devel                                                                    1-2                                     alpm                           
 bash                                                                          5.3.9-1                                 alpm                           
@@ -468,7 +468,7 @@ jettison                                                                      1.
 jpegxl                                                                        UNKNOWN                                 java-archive                   
 jq                                                                            1.7.1                                   binary                         
 jq                                                                            1.8.1-1                                 alpm                           
-jrt-fs                                                                        21.0.8                                  java-archive                   
+jrt-fs                                                                        21.0.9                                  java-archive                   
 json                                                                          1.0.0                                   npm                            
 json                                                                          20240205                                java-archive                   
 json                                                                          UNKNOWN                                 java-archive                   
@@ -513,21 +513,21 @@ libarchive                                                                    3.
 libassuan                                                                     3.0.0-1                                 alpm                           
 libasyncns                                                                    1:0.8+r3+g68cd5af-3                     alpm                           
 libatasmart                                                                   0.19-7                                  alpm                           
-libblockdev                                                                   3.4.0-1                                 alpm                           
-libblockdev-crypto                                                            3.4.0-1                                 alpm                           
-libblockdev-fs                                                                3.4.0-1                                 alpm                           
-libblockdev-loop                                                              3.4.0-1                                 alpm                           
-libblockdev-mdraid                                                            3.4.0-1                                 alpm                           
-libblockdev-nvme                                                              3.4.0-1                                 alpm                           
-libblockdev-part                                                              3.4.0-1                                 alpm                           
-libblockdev-smart                                                             3.4.0-1                                 alpm                           
-libblockdev-swap                                                              3.4.0-1                                 alpm                           
+libblockdev                                                                   3.4.0-2                                 alpm                           
+libblockdev-crypto                                                            3.4.0-2                                 alpm                           
+libblockdev-fs                                                                3.4.0-2                                 alpm                           
+libblockdev-loop                                                              3.4.0-2                                 alpm                           
+libblockdev-mdraid                                                            3.4.0-2                                 alpm                           
+libblockdev-nvme                                                              3.4.0-2                                 alpm                           
+libblockdev-part                                                              3.4.0-2                                 alpm                           
+libblockdev-smart                                                             3.4.0-2                                 alpm                           
+libblockdev-swap                                                              3.4.0-2                                 alpm                           
 libbluray                                                                     1.4.0-2                                 alpm                           
 libbluray-awt-j2se                                                            1.4.0                                   java-archive                   
 libbluray-j2se                                                                1.4.0                                   java-archive                   
 libbpf                                                                        1.6.2-1                                 alpm                           
 libbsd                                                                        0.12.2-2                                alpm                           
-libbytesize                                                                   2.11-1                                  alpm                           
+libbytesize                                                                   2.11-2                                  alpm                           
 libcacard                                                                     2.8.1-1                                 alpm                           
 libcap                                                                        2.77-1                                  alpm                           
 libcap-ng                                                                     0.8.5-3                                 alpm                           
@@ -579,7 +579,7 @@ libngtcp2                                                                     1.
 libnl                                                                         3.12.0-1                                alpm                           
 libnotify                                                                     0.8.7-2                                 alpm                           
 libnsl                                                                        2.0.1-1                                 alpm                           
-libnvme                                                                       1.16.1-1                                alpm                           
+libnvme                                                                       1.16.1-2                                alpm                           
 libogg                                                                        1.3.6-1                                 alpm                           
 libp11-kit                                                                    0.25.10-2                               alpm                           
 libpcap                                                                       1.10.5-3                                alpm                           
@@ -751,7 +751,7 @@ pty4j                                                                         UN
 pug                                                                           1.0.0                                   npm                            
 pulseaudio                                                                    17.0+r98+gb096704c0-1                   alpm                           
 pulsectl                                                                      24.12.0                                 python                         
-pycharm-community-edition                                                     2025.3-2                                alpm                           
+pycharm-community-edition                                                     2025.3.1-1                              alpm                           
 pycparser                                                                     2.23                                    python                         
 pyee                                                                          13.0.0                                  python                         
 pylibsrtp                                                                     1.0.0                                   python                         
@@ -843,7 +843,7 @@ util-linux                                                                    2.
 util-linux-libs                                                               2.41.3-1                                alpm                           
 vb                                                                            1.0.0                                   npm                            
 velocity-engine-core                                                          2.3                                     java-archive                   
-volume_key                                                                    0.3.12-11                               alpm                           
+volume_key                                                                    0.3.12-12                               alpm                           
 vscode-bicep                                                                  1.0.0                                   npm                            
 vscode-bicep-param                                                            UNKNOWN                                 npm                            
 vscode-jsp                                                                    0.0.3                                   npm                            
