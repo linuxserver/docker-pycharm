@@ -526,7 +526,7 @@ libbluray-awt-j2se                                                            1.
 libbluray-j2se                                                                1.4.0                                   java-archive                   
 libbpf                                                                        1.6.2-1                                 alpm                           
 libbsd                                                                        0.12.2-2                                alpm                           
-libbytesize                                                                   2.11-2                                  alpm                           
+libbytesize                                                                   2.12-3                                  alpm                           
 libcacard                                                                     2.8.1-1                                 alpm                           
 libcap                                                                        2.77-1                                  alpm                           
 libcap-ng                                                                     0.9-1                                   alpm                           
