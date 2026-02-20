@@ -536,7 +536,7 @@ libcdio                                                                       2.
 libcdio-paranoia                                                              10.2+2.0.2-1                            alpm                           
 libcloudproviders                                                             0.4.0-1                                 alpm                           
 libcolord                                                                     1.4.8-1                                 alpm                           
-libcups                                                                       2:2.4.16-1                              alpm                           
+libcups                                                                       2:2.4.16-2                              alpm                           
 libdaemon                                                                     0.14-6                                  alpm                           
 libdatrie                                                                     0.2.14-1                                alpm                           
 libdbusmenu-glib                                                              18.10.20180917-1                        alpm                           
@@ -584,7 +584,7 @@ libngtcp2                                                                     1.
 libnl                                                                         3.12.0-1                                alpm                           
 libnotify                                                                     0.8.8-1                                 alpm                           
 libnsl                                                                        2.0.1-1                                 alpm                           
-libnvme                                                                       1.16.1-2                                alpm                           
+libnvme                                                                       1.16.1-3                                alpm                           
 libobjc                                                                       15.2.1+r604+g0b99615a8aef-1             alpm                           
 libogg                                                                        1.3.6-1                                 alpm                           
 libp11-kit                                                                    0.26.2-1                                alpm                           
@@ -602,7 +602,7 @@ libsecret                                                                     0.
 libsfdo                                                                       0.1.4-1                                 alpm                           
 libsm                                                                         1.2.6-1                                 alpm                           
 libsndfile                                                                    1.2.2-4                                 alpm                           
-libsoup3                                                                      3.6.5-1                                 alpm                           
+libsoup3                                                                      3.6.6-1                                 alpm                           
 libsoxr                                                                       0.1.3-4                                 alpm                           
 libssh2                                                                       1.11.1-1                                alpm                           
 libstdc++                                                                     15.2.1+r604+g0b99615a8aef-1             alpm                           
