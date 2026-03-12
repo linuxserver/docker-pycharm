@@ -471,7 +471,7 @@ jettison                                                                      1.
 jpegxl                                                                        UNKNOWN                               java-archive                   
 jq                                                                            1.7.1                                 binary                         
 jq                                                                            1.8.1-1                               alpm                           
-jrt-fs                                                                        21.0.9                                java-archive                   
+jrt-fs                                                                        21.0.10                               java-archive                   
 json                                                                          1.0.0                                 npm                            
 json                                                                          20240205                              java-archive                   
 json                                                                          UNKNOWN                               java-archive                   
@@ -527,9 +527,9 @@ libblockdev-nvme                                                              3.
 libblockdev-part                                                              3.4.0-2                               alpm                           
 libblockdev-smart                                                             3.4.0-2                               alpm                           
 libblockdev-swap                                                              3.4.0-2                               alpm                           
-libbluray                                                                     1.4.0-2                               alpm                           
-libbluray-awt-j2se                                                            1.4.0                                 java-archive                   
-libbluray-j2se                                                                1.4.0                                 java-archive                   
+libbluray                                                                     1.4.1-1                               alpm                           
+libbluray-awt-j2se                                                            1.4.1                                 java-archive                   
+libbluray-j2se                                                                1.4.1                                 java-archive                   
 libbpf                                                                        1.6.2-1                               alpm                           
 libbsd                                                                        0.12.2-2                              alpm                           
 libbytesize                                                                   2.12-3                                alpm                           
@@ -764,7 +764,7 @@ pty4j                                                                         UN
 pug                                                                           1.0.0                                 npm                            
 pulseaudio                                                                    17.0+r98+gb096704c0-1                 alpm                           
 pulsectl                                                                      24.12.0                               python                         
-pycharm-community-edition                                                     2025.3.1-1                            alpm                           
+pycharm-community-edition                                                     2025.3.3-1                            alpm                           
 pycparser                                                                     3.0                                   python                         
 pyee                                                                          13.0.1                                python                         
 pylibsrtp                                                                     1.0.0                                 python                         
