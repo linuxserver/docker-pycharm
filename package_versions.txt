@@ -19,7 +19,7 @@ alsa-topology-conf                                                            1.
 alsa-ucm-conf                                                                 1.2.15.3-1                            alpm                           
 annotations                                                                   UNKNOWN                               java-archive                   
 ant                                                                           1.9.4                                 java-archive                   
-archlinux-keyring                                                             20260409-1                            alpm                           
+archlinux-keyring                                                             20260420-1                            alpm                           
 asciidoctor-vscode                                                            3.3.2-dev                             npm                            
 asm                                                                           UNKNOWN                               java-archive                   
 assertj-core                                                                  4.0.0-M1                              java-archive  (+1 duplicate)   
@@ -46,7 +46,7 @@ bubblewrap                                                                    0.
 busybox                                                                       1.36.1-4                              alpm                           
 bzip2                                                                         1.0.8-6                               alpm                           
 ca-certificates                                                               20240618-1                            alpm                           
-ca-certificates-mozilla                                                       3.122-1                               alpm                           
+ca-certificates-mozilla                                                       3.123-1                               alpm                           
 ca-certificates-utils                                                         20240618-1                            alpm                           
 cairo                                                                         1.18.4-1                              alpm                           
 caja                                                                          1.28.0-4                              alpm                           
@@ -88,7 +88,7 @@ core                                                                          1.
 core                                                                          6.9.2                                 java-archive                   
 core                                                                          77.1                                  java-archive                   
 core                                                                          UNKNOWN                               java-archive  (+3 duplicates)  
-coreutils                                                                     9.10-1                                alpm                           
+coreutils                                                                     9.11-1                                alpm                           
 cpp                                                                           1.0.0                                 npm                            
 cppdap                                                                        1.58.0-3                              alpm                           
 cryptography                                                                  46.0.7                                python                         
@@ -479,7 +479,7 @@ jdk                                                                           1.
 jettison                                                                      1.5.4                                 java-archive                   
 jpegxl                                                                        UNKNOWN                               java-archive                   
 jq                                                                            1.8.1                                 binary                         
-jq                                                                            1.8.1-2                               alpm                           
+jq                                                                            1.8.1-3                               alpm                           
 jrt-fs                                                                        25.0.2                                java-archive                   
 json                                                                          1.0.0                                 npm                            
 json                                                                          20240205                              java-archive                   
@@ -592,9 +592,9 @@ libmpc                                                                        1.
 libnetfilter_conntrack                                                        1.0.9-2                               alpm                           
 libnfnetlink                                                                  1.0.2-2                               alpm                           
 libnftnl                                                                      1.3.1-1                               alpm                           
-libnghttp2                                                                    1.68.1-1                              alpm                           
+libnghttp2                                                                    1.69.0-1                              alpm                           
 libnghttp3                                                                    1.15.0-1                              alpm                           
-libngtcp2                                                                     1.22.0-1                              alpm                           
+libngtcp2                                                                     1.22.1-1                              alpm                           
 libnl                                                                         3.12.0-1                              alpm                           
 libnotify                                                                     0.8.8-1                               alpm                           
 libnsl                                                                        2.0.1-1                               alpm                           
@@ -660,7 +660,7 @@ libxi                                                                         1.
 libxinerama                                                                   1.1.6-1                               alpm                           
 libxkbcommon                                                                  1.13.1-1                              alpm                           
 libxkbfile                                                                    1.2.0-1                               alpm                           
-libxml2                                                                       2.15.2-1                              alpm                           
+libxml2                                                                       2.15.3-1                              alpm                           
 libxmu                                                                        1.3.1-1                               alpm                           
 libxpm                                                                        3.5.19-1                              alpm                           
 libxrandr                                                                     1.5.5-1                               alpm                           
@@ -838,8 +838,8 @@ swift                                                                         1.
 swing                                                                         UNKNOWN                               java-archive                   
 swingx                                                                        UNKNOWN                               java-archive                   
 swingx-core                                                                   1.6.2-SNAPSHOT                        java-archive                   
-systemd                                                                       260.1-1                               alpm                           
-systemd-libs                                                                  260.1-1                               alpm                           
+systemd                                                                       260.1-2                               alpm                           
+systemd-libs                                                                  260.1-2                               alpm                           
 tags.cncf.io/container-device-interface                                       v1.1.0                                go-module     (+2 duplicates)  
 tags.cncf.io/container-device-interface/specs-go                              v1.1.0                                go-module     (+1 duplicate)   
 tar                                                                           1.35-2                                alpm                           
