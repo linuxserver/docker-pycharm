@@ -2,7 +2,7 @@ NAME                                                                          VE
 HdrHistogram                                                                  2.2.2                                   java-archive                   
 Java-WebSocket                                                                1.6.0                                   java-archive                   
 Simple Launcher                                                               1.1.0.14                                binary        (+5 duplicates)  
-abseil-cpp                                                                    20260107.1-1                            alpm                           
+abseil-cpp                                                                    20260526.0-2                            alpm                           
 acl                                                                           2.3.2-2                                 alpm                           
 adwaita-cursors                                                               50.0-1                                  alpm                           
 adwaita-fonts                                                                 50.0-1                                  alpm                           
@@ -14,12 +14,12 @@ aiohappyeyeballs                                                              2.
 aiohttp                                                                       3.14.1                                  python                         
 aioice                                                                        0.10.2                                  python                         
 aiosignal                                                                     1.4.0                                   python                         
-alsa-lib                                                                      1.2.16-1                                alpm                           
+alsa-lib                                                                      1.2.16.1-1                              alpm                           
 alsa-topology-conf                                                            1.2.5.1-4                               alpm                           
-alsa-ucm-conf                                                                 1.2.16-2                                alpm                           
+alsa-ucm-conf                                                                 1.2.16.1-1                              alpm                           
 annotations                                                                   UNKNOWN                                 java-archive                   
 ant                                                                           1.9.4                                   java-archive                   
-archlinux-keyring                                                             20260420-1                              alpm                           
+archlinux-keyring                                                             20260612-1                              alpm                           
 asciidoctor-vscode                                                            3.3.2-dev                               npm                            
 asm                                                                           UNKNOWN                                 java-archive                   
 assertj-core                                                                  4.0.0-M1                                java-archive  (+1 duplicate)   
@@ -47,7 +47,7 @@ bubblewrap                                                                    0.
 busybox                                                                       1.36.1-4                                alpm                           
 bzip2                                                                         1.0.8-6                                 alpm                           
 ca-certificates                                                               20240618-1                              alpm                           
-ca-certificates-mozilla                                                       3.124-1                                 alpm                           
+ca-certificates-mozilla                                                       3.125-1                                 alpm                           
 ca-certificates-utils                                                         20240618-1                              alpm                           
 cairo                                                                         1.18.4-1                                alpm                           
 caja                                                                          1.28.0-4                                alpm                           
@@ -67,7 +67,7 @@ cli-arm64                                                                     UN
 cli-parser                                                                    1.1.6                                   java-archive                   
 clojure                                                                       1.0.0                                   npm                            
 cmake                                                                         0.0.17                                  npm                            
-cmake                                                                         4.3.3-1                                 alpm                           
+cmake                                                                         4.3.4-1                                 alpm                           
 codec-compression                                                             4.2.0.RC2                               java-archive                   
 coffeescript                                                                  1.0.0                                   npm                            
 collate                                                                       77.1                                    java-archive                   
@@ -93,12 +93,13 @@ coreutils                                                                     9.
 cpio                                                                          2.15-3                                  alpm                           
 cpp                                                                           1.0.0                                   npm                            
 cppdap                                                                        1.58.0-3                                alpm                           
-cryptography                                                                  48.0.1                                  python                         
+cryptography                                                                  49.0.0                                  python                         
 cryptsetup                                                                    2.8.6-1                                 alpm                           
 csharp                                                                        1.0.0                                   npm                            
 css                                                                           1.0.0                                   npm                            
 curl                                                                          8.20.0-7                                alpm                           
 currdata                                                                      77.1                                    java-archive                   
+cyphar.com/go-pathrs                                                          v0.2.5                                  go-module                      
 dario.cat/mergo                                                               v1.0.2                                  go-module                      
 dart                                                                          1.0.0                                   npm                            
 datetime                                                                      UNKNOWN                                 java-archive                   
@@ -132,7 +133,7 @@ erlang-ls                                                                     0.
 evdev                                                                         1.9.3                                   python                         
 exempi                                                                        2.6.6-3                                 alpm                           
 expat                                                                         2.8.1-1                                 alpm                           
-fakeroot                                                                      1:1.37.2-1                              alpm                           
+fakeroot                                                                      1:1.37.2-2                              alpm                           
 fastutil                                                                      8.5.18                                  java-archive                   
 fcft                                                                          3.3.3-1                                 alpm                           
 fest-reflect                                                                  1.4.1                                   java-archive  (+1 duplicate)   
@@ -152,7 +153,7 @@ fribidi                                                                       1.
 frozenlist                                                                    1.8.0                                   python                         
 fsharp                                                                        1.0.0                                   npm                            
 fuse-common                                                                   3.18.2-1                                alpm                           
-fuse-overlayfs                                                                1.16-1                                  alpm                           
+fuse-overlayfs                                                                1.17-1                                  alpm                           
 fuse3                                                                         3.18.2-1                                alpm                           
 gawk                                                                          5.4.0-1                                 alpm                           
 gc                                                                            8.2.12-1                                alpm                           
@@ -170,12 +171,14 @@ github.com/AlecAivazis/survey/v2                                              v2
 github.com/DefangLabs/secret-detector                                         v0.0.0-20250403165618-22662109213e      go-module                      
 github.com/Microsoft/hcsshim                                                  v0.15.0-rc.1                            go-module     (+1 duplicate)   
 github.com/acarl005/stripansi                                                 v0.0.0-20180116102854-5a71ef0e047d      go-module                      
+github.com/aperturerobotics/protobuf-go-lite                                  v0.14.0                                 go-module                      
 github.com/beorn7/perks                                                       v1.0.1                                  go-module     (+1 duplicate)   
 github.com/buger/goterm                                                       v1.0.4                                  go-module                      
 github.com/cenkalti/backoff/v5                                                v5.0.3                                  go-module     (+1 duplicate)   
 github.com/cespare/xxhash/v2                                                  v2.3.0                                  go-module     (+3 duplicates)  
 github.com/checkpoint-restore/checkpointctl                                   v1.5.0                                  go-module                      
-github.com/checkpoint-restore/go-criu/v7                                      v7.2.0                                  go-module     (+1 duplicate)   
+github.com/checkpoint-restore/go-criu/v7                                      v7.2.0                                  go-module                      
+github.com/checkpoint-restore/go-criu/v8                                      v8.3.0                                  go-module                      
 github.com/cilium/ebpf                                                        v0.16.0                                 go-module     (+2 duplicates)  
 github.com/cilium/ebpf                                                        v0.17.3                                 go-module                      
 github.com/compose-spec/compose-go/v2                                         v2.11.0                                 go-module                      
@@ -208,7 +211,7 @@ github.com/containernetworking/plugins                                        v1
 github.com/containers/ocicrypt                                                v1.2.1                                  go-module                      
 github.com/coreos/go-systemd/v22                                              v22.7.0                                 go-module     (+3 duplicates)  
 github.com/cyphar/filepath-securejoin                                         v0.6.0                                  go-module                      
-github.com/cyphar/filepath-securejoin                                         v0.6.1                                  go-module                      
+github.com/cyphar/filepath-securejoin                                         v0.7.0                                  go-module                      
 github.com/davecgh/go-spew                                                    v1.1.2-0.20180830191138-d8f796af33cc    go-module                      
 github.com/distribution/reference                                             v0.6.0                                  go-module     (+3 duplicates)  
 github.com/docker/buildx                                                      v0.33.0                                 go-module                      
@@ -232,7 +235,8 @@ github.com/go-jose/go-jose/v4                                                 v4
 github.com/go-logr/logr                                                       v1.4.3                                  go-module     (+3 duplicates)  
 github.com/go-logr/stdr                                                       v1.2.2                                  go-module     (+3 duplicates)  
 github.com/go-viper/mapstructure/v2                                           v2.5.0                                  go-module                      
-github.com/godbus/dbus/v5                                                     v5.1.0                                  go-module     (+3 duplicates)  
+github.com/godbus/dbus/v5                                                     v5.1.0                                  go-module     (+2 duplicates)  
+github.com/godbus/dbus/v5                                                     v5.2.2                                  go-module                      
 github.com/gofrs/flock                                                        v0.13.0                                 go-module                      
 github.com/gogo/protobuf                                                      v1.3.2                                  go-module     (+4 duplicates)  
 github.com/golang-jwt/jwt/v5                                                  v5.3.0                                  go-module                      
@@ -293,8 +297,7 @@ github.com/opencontainers/image-spec                                          v1
 github.com/opencontainers/runc                                                UNKNOWN                                 go-module                      
 github.com/opencontainers/runtime-spec                                        v1.3.0                                  go-module     (+4 duplicates)  
 github.com/opencontainers/runtime-tools                                       v0.9.1-0.20251114084447-edf4cb3d2116    go-module     (+1 duplicate)   
-github.com/opencontainers/selinux                                             v1.13.0                                 go-module                      
-github.com/opencontainers/selinux                                             v1.13.1                                 go-module                      
+github.com/opencontainers/selinux                                             v1.13.1                                 go-module     (+1 duplicate)   
 github.com/pelletier/go-toml/v2                                               v2.2.4                                  go-module                      
 github.com/pelletier/go-toml/v2                                               v2.3.0                                  go-module     (+1 duplicate)   
 github.com/pkg/errors                                                         v0.9.1                                  go-module                      
@@ -310,8 +313,7 @@ github.com/secure-systems-lab/go-securesystemslib                             v0
 github.com/shibumi/go-pathspec                                                v1.3.0                                  go-module                      
 github.com/sigstore/sigstore                                                  v1.10.4                                 go-module                      
 github.com/sigstore/sigstore-go                                               v1.1.4                                  go-module                      
-github.com/sirupsen/logrus                                                    v1.9.3                                  go-module                      
-github.com/sirupsen/logrus                                                    v1.9.4                                  go-module     (+4 duplicates)  
+github.com/sirupsen/logrus                                                    v1.9.4                                  go-module     (+5 duplicates)  
 github.com/skratchdot/open-golang                                             v0.0.0-20200116055534-eef842397966      go-module                      
 github.com/smallstep/pkcs7                                                    v0.1.1                                  go-module                      
 github.com/spf13/cobra                                                        v1.10.2                                 go-module                      
@@ -370,13 +372,13 @@ golang.org/x/crypto                                                           v0
 golang.org/x/crypto                                                           v0.49.0                                 go-module                      
 golang.org/x/exp                                                              v0.0.0-20241108190413-2d47ceb2692f      go-module     (+2 duplicates)  
 golang.org/x/mod                                                              v0.35.0                                 go-module     (+1 duplicate)   
-golang.org/x/net                                                              v0.43.0                                 go-module                      
+golang.org/x/net                                                              v0.50.0                                 go-module                      
 golang.org/x/net                                                              v0.51.0                                 go-module                      
 golang.org/x/net                                                              v0.52.0                                 go-module     (+3 duplicates)  
 golang.org/x/sync                                                             v0.20.0                                 go-module     (+4 duplicates)  
-golang.org/x/sys                                                              v0.38.0                                 go-module                      
 golang.org/x/sys                                                              v0.43.0                                 go-module     (+3 duplicates)  
 golang.org/x/sys                                                              v0.44.0                                 go-module                      
+golang.org/x/sys                                                              v0.46.0                                 go-module                      
 golang.org/x/term                                                             v0.41.0                                 go-module     (+1 duplicate)   
 golang.org/x/text                                                             v0.34.0                                 go-module                      
 golang.org/x/text                                                             v0.35.0                                 go-module     (+2 duplicates)  
@@ -391,7 +393,6 @@ google.golang.org/grpc                                                        v1
 google.golang.org/grpc                                                        v1.81.1                                 go-module                      
 google.golang.org/protobuf                                                    v1.36.11                                go-module                      
 google.golang.org/protobuf                                                    v1.36.12-0.20260120151049-f2248ac996af  go-module     (+3 duplicates)  
-google.golang.org/protobuf                                                    v1.36.8                                 go-module                      
 gopkg.in/inf.v0                                                               v0.9.1                                  go-module     (+1 duplicate)   
 gopkg.in/ini.v1                                                               v1.67.0                                 go-module                      
 gopkg.in/yaml.v3                                                              v3.0.1                                  go-module     (+2 duplicates)  
@@ -449,7 +450,7 @@ intel-gmmlib                                                                  22
 intel-media-driver                                                            26.1.5-1                                alpm                           
 io                                                                            3.3.2                                   java-archive                   
 ion                                                                           1.11.11                                 java-archive                   
-iproute2                                                                      7.0.0-1                                 alpm                           
+iproute2                                                                      7.1.0-1                                 alpm                           
 iptables                                                                      1:1.8.13-1                              alpm                           
 iso-codes                                                                     4.20.1-1                                alpm                           
 jackson-core                                                                  2.19.0                                  java-archive                   
@@ -596,10 +597,11 @@ libngtcp2                                                                     1.
 libnl                                                                         3.12.0-1                                alpm                           
 libnotify                                                                     0.8.8-1                                 alpm                           
 libnsl                                                                        2.0.1-2                                 alpm                           
-libnvme                                                                       1.16.1-3                                alpm                           
+libnvme                                                                       1.16.2-1                                alpm                           
 libobjc                                                                       16.1.1+r12+g301eb08fa2c5-1              alpm                           
 libogg                                                                        1.3.6-1                                 alpm                           
 libp11-kit                                                                    0.26.2-1                                alpm                           
+libpathrs                                                                     0.2.5-2                                 alpm                           
 libpcap                                                                       1.10.6-1                                alpm                           
 libpciaccess                                                                  0.19-1                                  alpm                           
 libpng                                                                        1.6.58-1                                alpm                           
@@ -670,8 +672,8 @@ libxtst                                                                       1.
 libxv                                                                         1.0.13-1                                alpm                           
 libxvmc                                                                       1.0.15-1                                alpm                           
 libxxf86vm                                                                    1.1.7-1                                 alpm                           
-linux-api-headers                                                             7.0-1                                   alpm                           
-linux-headers                                                                 7.0.11.arch1-1                          alpm                           
+linux-api-headers                                                             7.1-1                                   alpm                           
+linux-headers                                                                 7.0.12.arch1-1                          alpm                           
 llvm-libs                                                                     22.1.6-1                                alpm                           
 lm_sensors                                                                    1:3.6.2-1                               alpm                           
 lmdb                                                                          0.9.35-1                                alpm                           
@@ -692,7 +694,7 @@ markdown-math                                                                 1.
 matcher                                                                       2.0.8 2003-12-28 11:00:13               java-archive                   
 mate-desktop                                                                  1.28.2-2                                alpm                           
 mdadm                                                                         4.6-2                                   alpm                           
-mesa                                                                          1:26.1.2-1                              alpm                           
+mesa                                                                          1:26.1.3-2                              alpm                           
 minlog                                                                        1.3.1                                   java-archive                   
 more-itertools                                                                10.8.0                                  python                         
 morfologik-fsa                                                                2.1.9                                   java-archive                   
@@ -702,7 +704,7 @@ morfologik-stemming                                                           2.
 mpdecimal                                                                     4.0.1-3                                 alpm                           
 mpfr                                                                          4.2.2-1                                 alpm                           
 mpg123                                                                        1.33.5-1                                alpm                           
-msgpack                                                                       1.2.0                                   python                         
+msgpack                                                                       1.2.1                                   python                         
 mtdev                                                                         1.1.7-1                                 alpm                           
 multidict                                                                     6.7.1                                   python                         
 mvstore                                                                       2.3.232                                 java-archive                   
@@ -711,7 +713,7 @@ nettle                                                                        4.
 netty-codec-compression                                                       4.2.0.RC2                               java-archive                   
 nftables                                                                      0.1                                     python                         
 nftables                                                                      1:1.1.6-3                               alpm                           
-nginx                                                                         1.30.2-1                                alpm                           
+nginx                                                                         1.30.3-1                                alpm                           
 nginx-mod-fancyindex                                                          0.5.2-1                                 alpm                           
 nginx-mod-fancyindex-debug                                                    0.5.2-1                                 alpm                           
 noto-fonts                                                                    1:2026.06.01-1                          alpm                           
@@ -719,7 +721,7 @@ noto-fonts-cjk                                                                20
 noto-fonts-emoji                                                              1:2.051-1                               alpm                           
 npth                                                                          1.8-1                                   alpm                           
 nspr                                                                          4.39-1                                  alpm                           
-nss                                                                           3.124-1                                 alpm                           
+nss                                                                           3.125-1                                 alpm                           
 nvidia-cuda-nvrtc                                                             13.3.33                                 python                         
 objective-c                                                                   1.0.0                                   npm                            
 oniguruma                                                                     6.9.10-1                                alpm                           
@@ -737,7 +739,7 @@ pacman                                                                        7.
 pacman-mirrorlist                                                             20260610-1                              alpm                           
 pahole                                                                        1:1.31-2                                alpm                           
 pam                                                                           1.7.2-2                                 alpm                           
-pambase                                                                       20250719-1                              alpm                           
+pambase                                                                       20260616-1                              alpm                           
 pango                                                                         1:1.57.1-1                              alpm                           
 parser                                                                        UNKNOWN                                 java-archive                   
 parted                                                                        3.7-1                                   alpm                           
@@ -762,7 +764,7 @@ plexus-utils                                                                  3.
 polkit                                                                        127-3                                   alpm                           
 popt                                                                          1.19-2                                  alpm                           
 powershell                                                                    1.0.0                                   npm                            
-procps-ng                                                                     4.0.6-1                                 alpm                           
+procps-ng                                                                     4.0.6-2                                 alpm                           
 prometheus-client                                                             0.25.0                                  python                         
 propcache                                                                     0.5.2                                   python                         
 protobuf                                                                      3.25.5                                  java-archive                   
@@ -778,7 +780,7 @@ pycparser                                                                     3.
 pyee                                                                          13.0.1                                  python                         
 pylibsrtp                                                                     1.0.0                                   python                         
 pynput                                                                        1.8.2                                   python                         
-pyopenssl                                                                     26.2.0                                  python                         
+pyopenssl                                                                     26.3.0                                  python                         
 python                                                                        1.0.0                                   npm                            
 python                                                                        3.14.5-1                                alpm                           
 python-xlib                                                                   0.33                                    python                         
@@ -796,7 +798,7 @@ roots                                                                         1.
 rpc                                                                           2.0.1                                   java-archive                   
 rtkit                                                                         0.14-1                                  alpm                           
 ruby                                                                          1.0.0                                   npm                            
-runc                                                                          1.4.2-1                                 alpm                           
+runc                                                                          1.5.0-1                                 alpm                           
 rust                                                                          1.0.0                                   npm                            
 scss                                                                          1.0.0                                   npm                            
 search-result                                                                 1.0.0                                   npm                            
@@ -806,7 +808,7 @@ segment                                                                       2.
 selkies                                                                       0.0.0                                   python                         
 setuptools                                                                    82.0.1                                  python                         
 shaderlab                                                                     1.0.0                                   npm                            
-shadow                                                                        4.18.0-1                                alpm                           
+shadow                                                                        4.19.4.arch1-1                          alpm                           
 shared-mime-info                                                              2.4-3                                   alpm                           
 shellscript                                                                   1.0.0                                   npm                            
 sigs.k8s.io/json                                                              v0.0.0-20250730193827-2d320260d730      go-module     (+1 duplicate)   
@@ -826,11 +828,12 @@ sqlite                                                                        3.
 st                                                                            0.9.3-1                                 alpm                           
 st-debug                                                                      0.9.3-1                                 alpm                           
 startup-notification                                                          0.12-9                                  alpm                           
-stdlib                                                                        go1.26.1-X:nodwarf5                     go-module     (+1 duplicate)   
+stdlib                                                                        go1.26.1-X:nodwarf5                     go-module                      
 stdlib                                                                        go1.26.3-X:nodwarf5                     go-module     (+7 duplicates)  
+stdlib                                                                        go1.26.4-X:nodwarf5                     go-module                      
 stream                                                                        0.8.4                                   java-archive                   
 streamex                                                                      0.8.4                                   java-archive                   
-sudo                                                                          1.9.17.p2-2                             alpm                           
+sudo                                                                          1.9.17.p2-6                             alpm                           
 swift                                                                         1.0.0                                   npm                            
 swing                                                                         UNKNOWN                                 java-archive                   
 swingx                                                                        UNKNOWN                                 java-archive                   
@@ -862,8 +865,8 @@ ui                                                                            UN
 unit-api                                                                      1.0                                     java-archive                   
 uom-lib-common                                                                1.1                                     java-archive                   
 util                                                                          UNKNOWN                                 java-archive                   
-util-linux                                                                    2.42.1-1                                alpm                           
-util-linux-libs                                                               2.42.1-1                                alpm                           
+util-linux                                                                    2.42.2-1                                alpm                           
+util-linux-libs                                                               2.42.2-1                                alpm                           
 utils                                                                         UNKNOWN                                 java-archive                   
 vb                                                                            1.0.0                                   npm                            
 velocity-engine-core                                                          2.3                                     java-archive                   
@@ -873,9 +876,9 @@ vscode-bicep-param                                                            UN
 vscode-jsp                                                                    0.0.3                                   npm                            
 vscode-mdx                                                                    1.8.9                                   npm                            
 vulkan-icd-loader                                                             1.4.350.0-1                             alpm                           
-vulkan-intel                                                                  1:26.1.2-1                              alpm                           
-vulkan-mesa-implicit-layers                                                   1:26.1.2-1                              alpm                           
-vulkan-radeon                                                                 1:26.1.2-1                              alpm                           
+vulkan-intel                                                                  1:26.1.3-2                              alpm                           
+vulkan-mesa-implicit-layers                                                   1:26.1.3-2                              alpm                           
+vulkan-radeon                                                                 1:26.1.3-2                              alpm                           
 vulkan-tools                                                                  1.4.350.0-1                             alpm                           
 watchdog                                                                      6.0.0                                   python                         
 wayland                                                                       1.25.0-1                                alpm                           
