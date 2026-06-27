@@ -57,7 +57,7 @@ cbor                                                                          UN
 cffi                                                                          2.0.0                                   python                         
 cglib                                                                         3.3.0                                   java-archive                   
 cglib-nodep                                                                   3.3.0                                   java-archive                   
-cio                                                                           3.3.2                                   java-archive                   
+cio                                                                           3.4.1                                   java-archive                   
 classgraph                                                                    4.8.181                                 java-archive                   
 cli                                                                           1.10.0                                  java-archive                   
 cli                                                                           UNKNOWN                                 binary                         
@@ -449,7 +449,7 @@ ini                                                                           1.
 ini4j                                                                         0.5.5-2                                 java-archive                   
 intel-gmmlib                                                                  22.10.0-1                               alpm                           
 intel-media-driver                                                            26.1.5-1                                alpm                           
-io                                                                            3.3.2                                   java-archive                   
+io                                                                            3.4.1                                   java-archive                   
 ion                                                                           1.11.11                                 java-archive                   
 iproute2                                                                      7.1.0-1                                 alpm                           
 iptables                                                                      1:1.8.13-1                              alpm                           
@@ -477,7 +477,7 @@ jettison                                                                      1.
 jpegxl                                                                        UNKNOWN                                 java-archive                   
 jq                                                                            1.8.1                                   binary                         
 jq                                                                            1.8.2-1                                 alpm                           
-jrt-fs                                                                        25.0.2                                  java-archive                   
+jrt-fs                                                                        25.0.3                                  java-archive                   
 json                                                                          1.0.0                                   npm                            
 json                                                                          20240205                                java-archive                   
 json                                                                          UNKNOWN                                 java-archive                   
@@ -776,7 +776,7 @@ pty4j                                                                         UN
 pug                                                                           1.0.0                                   npm                            
 pulseaudio                                                                    17.0+r98+gb096704c0-1                   alpm                           
 pulsectl                                                                      24.12.0                                 python                         
-pycharm-community-edition                                                     2026.1.2-1                              alpm                           
+pycharm-community-edition                                                     2026.1.3-1                              alpm                           
 pycparser                                                                     3.0                                     python                         
 pyee                                                                          13.0.1                                  python                         
 pylibsrtp                                                                     1.0.0                                   python                         
