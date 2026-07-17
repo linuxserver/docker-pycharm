@@ -486,6 +486,7 @@ json                                                                          UN
 json-c                                                                        0.19-1                                  alpm                           
 json-glib                                                                     1.10.8-1                                alpm                           
 jsoncpp                                                                       1.9.6-3                                 alpm                           
+jsonrpc                                                                       0.24.0.v20250131-1745                   java-archive                   
 jsoup                                                                         1.21.2                                  java-archive                   
 jspecify                                                                      1.0.0                                   java-archive                   
 jsr305                                                                        3.0.2                                   java-archive  (+1 duplicate)   
@@ -682,6 +683,7 @@ lm_sensors                                                                    1:
 lmdb                                                                          0.9.35-1                                alpm                           
 log                                                                           1.0.0                                   npm                            
 logging                                                                       1.2                                     java-archive                   
+lsp4j                                                                         0.24.0.v20250131-1745                   java-archive                   
 lua                                                                           1.0.0                                   npm                            
 lua54                                                                         5.4.8-6                                 alpm                           
 lz4                                                                           1.8.0                                   java-archive                   
@@ -778,7 +780,7 @@ pty4j                                                                         UN
 pug                                                                           1.0.0                                   npm                            
 pulseaudio                                                                    17.0+r98+gb096704c0-1                   alpm                           
 pulsectl                                                                      24.12.0                                 python                         
-pycharm-community-edition                                                     2026.1.3-2                              alpm                           
+pycharm-community-edition                                                     2026.1.4-1                              alpm                           
 pycparser                                                                     3.0                                     python                         
 pyee                                                                          13.0.1                                  python                         
 pylibsrtp                                                                     1.0.0                                   python                         
