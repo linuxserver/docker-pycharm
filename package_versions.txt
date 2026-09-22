@@ -696,7 +696,6 @@ markdown-math                                                                 10
 markupsafe                                                                    3.0.3                                 python                         
 matcher                                                                       2.0.8 2003-12-28 11:00:13             java-archive                   
 mate-desktop                                                                  1.28.2-2                              alpm                           
-maven-artifact                                                                3.9.9                                 java-archive                   
 maven-builder-support                                                         3.9.9                                 java-archive                   
 maven-model                                                                   3.9.9                                 java-archive                   
 maven-model-builder                                                           3.9.9                                 java-archive                   
@@ -789,7 +788,7 @@ pty4j                                                                         UN
 pug                                                                           10.0.0                                npm                            
 pulseaudio                                                                    17.0+r98+gb096704c0-1                 alpm                           
 pulsectl                                                                      24.12.0                               python                         
-pycharm-community-edition                                                     2026.2.2-1                            alpm                           
+pycharm-community-edition                                                     2026.2.3-1                            alpm                           
 pycparser                                                                     3.0                                   python                         
 pydantic                                                                      2.13.5                                python                         
 pydantic-core                                                                 2.46.5                                python                         
