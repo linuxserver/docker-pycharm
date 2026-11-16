@@ -50,7 +50,7 @@ ca-certificates                                                               20
 ca-certificates-mozilla                                                       3.133-1                               alpm                           
 ca-certificates-utils                                                         20240618-1                            alpm                           
 cairo                                                                         1.18.6-1                              alpm                           
-caja                                                                          1.28.0-6                              alpm                           
+caja                                                                          1.28.1-1                              alpm                           
 catatonit                                                                     0.2.1-2                               alpm                           
 cbor                                                                          1.11.0                                java-archive                   
 certifi                                                                       2026.10.23                            python                         
